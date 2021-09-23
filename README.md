@@ -1,2 +1,2 @@
 # GitDemo
-Week3-Class2
+Week3-Class2 - Cloning Repo in AWS
